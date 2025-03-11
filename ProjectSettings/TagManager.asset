@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cloudspawncontroller
+  - cloudnear
+  - cloudfar
+  - barrier
+  - interactive object
+  - object
+  - npc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - tree
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: tree
+    uniqueID: 974417887
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
