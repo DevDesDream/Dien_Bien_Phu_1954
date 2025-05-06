@@ -28,11 +28,13 @@ public class textbox:MonoBehaviour
   public bool CutOrNot;
   public TextMeshProUGUI text;
   public PlayableDirector sitdownscene3;
-  public male1 male;
+  public GameObject nextscenedisable;
   
-  void Start()
-  {
-    
+  void OnEnable(){
+    nextscenedisable.SetActive(false);
+  }
+  void OnDisable(){
+    nextscenedisable.SetActive(true);
   }
   void Update()
   {
@@ -51,7 +53,6 @@ public class textbox:MonoBehaviour
         sitdownscene3.playableGraph.GetRootPlayable(0).SetSpeed(0);
       }
     }
-    
    if (num<dialogue.dialoguelines.Count)
     {
       if (dialogue.dialoguelines[num].maindetect==true)

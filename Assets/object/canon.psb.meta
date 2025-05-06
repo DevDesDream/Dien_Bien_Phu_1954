@@ -115,7 +115,7 @@ ScriptedImporter:
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 243}
     spritePosition: {x: 273, y: 50}
-  - name: Background
+  - name: layer 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -137,7 +137,7 @@ ScriptedImporter:
     parentGroupIndex: -1
     uvTransform: {x: 537, y: 4}
     spritePosition: {x: 63, y: 92}
-  - name: Background
+  - name: layer 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -159,7 +159,7 @@ ScriptedImporter:
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 4}
     spritePosition: {x: 174, y: 109}
-  - name: Background copy 3
+  - name: layer 4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -181,7 +181,7 @@ ScriptedImporter:
     parentGroupIndex: -1
     uvTransform: {x: 960, y: 4}
     spritePosition: {x: 70, y: 57}
-  - name: Background copy 2
+  - name: layer 5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -203,7 +203,7 @@ ScriptedImporter:
     parentGroupIndex: -1
     uvTransform: {x: 537, y: 70}
     spritePosition: {x: 61, y: 100}
-  - name: Background copy
+  - name: layer 6
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -267,8 +267,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Background
-    spriteName: Background
+  - name: layer 2
+    spriteName: layer 2
     isGroup: 0
     parentIndex: -1
     spriteID: 16d91c0473f50f546bbd6c9a86c6e4b7
@@ -277,8 +277,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Background
-    spriteName: Background
+  - name: layer 3
+    spriteName: layer 3
     isGroup: 0
     parentIndex: -1
     spriteID: 72bf1622b30e57847a59c0ef41cb205d
@@ -287,8 +287,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Background copy 3
-    spriteName: Background copy 3
+  - name: layer 4
+    spriteName: layer 4
     isGroup: 0
     parentIndex: -1
     spriteID: e4ff58da75fe89c48a54ed0a2fe22bda
@@ -297,8 +297,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Background copy 2
-    spriteName: Background copy 2
+  - name: layer 5
+    spriteName: layer 5
     isGroup: 0
     parentIndex: -1
     spriteID: 868599ceae962d745964ab08d73b18fa
@@ -307,8 +307,8 @@ ScriptedImporter:
     flatten: 0
     isImported: 1
     isVisible: 1
-  - name: Background copy
-    spriteName: Background copy
+  - name: layer 6
+    spriteName: layer 6
     isGroup: 0
     parentIndex: -1
     spriteID: d5ecf26ad4f54a3448f7ef8e92e9074d
